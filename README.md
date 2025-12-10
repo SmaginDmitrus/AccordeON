@@ -1,2 +1,2 @@
 # AccordeON
-Open source web guitar songs collection
+Opensource web guitar songs collection
